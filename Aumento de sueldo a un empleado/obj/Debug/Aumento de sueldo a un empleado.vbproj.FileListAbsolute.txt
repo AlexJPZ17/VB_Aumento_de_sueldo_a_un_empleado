@@ -1,0 +1,24 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Aumento de sueldo a un empleado\bin\Debug\Aumento de sueldo a un empleado.exe.config
+C:\Users\Alex\AppData\Local\Temporary Projects\Aumento de sueldo a un empleado\bin\Debug\Aumento de sueldo a un empleado.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Aumento de sueldo a un empleado\bin\Debug\Aumento de sueldo a un empleado.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Aumento de sueldo a un empleado\bin\Debug\Aumento de sueldo a un empleado.xml
+C:\Users\Alex\AppData\Local\Temporary Projects\Aumento de sueldo a un empleado\obj\Debug\Aumento_de_sueldo_a_un_empleado.Form1.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Aumento de sueldo a un empleado\obj\Debug\Aumento_de_sueldo_a_un_empleado.Resources.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Aumento de sueldo a un empleado\obj\Debug\Aumento de sueldo a un empleado.vbproj.GenerateResource.Cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Aumento de sueldo a un empleado\obj\Debug\Aumento de sueldo a un empleado.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Aumento de sueldo a un empleado\obj\Debug\Aumento de sueldo a un empleado.xml
+C:\Users\Alex\AppData\Local\Temporary Projects\Aumento de sueldo a un empleado\obj\Debug\Aumento de sueldo a un empleado.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\bin\Debug\Aumento de sueldo a un empleado.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\obj\Debug\Aumento de sueldo a un empleado.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\obj\Debug\Aumento de sueldo a un empleado.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\obj\Debug\Aumento de sueldo a un empleado.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\bin\Debug\Aumento de sueldo a un empleado.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\bin\Debug\Aumento de sueldo a un empleado.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\bin\Debug\Aumento de sueldo a un empleado.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\obj\Debug\Aumento_de_sueldo_a_un_empleado.Form1.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\obj\Debug\Aumento_de_sueldo_a_un_empleado.Resources.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\obj\Debug\Aumento de sueldo a un empleado.vbproj.GenerateResource.Cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\bin\Debug\Aumento de sueldo a un empleado.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\obj\Debug\Aumento de sueldo a un empleado.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\obj\Debug\Aumento de sueldo a un empleado.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Aumento de sueldo a un empleado\Aumento de sueldo a un empleado\obj\Debug\Aumento de sueldo a un empleado.pdb
